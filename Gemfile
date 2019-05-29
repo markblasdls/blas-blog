@@ -49,6 +49,7 @@ group :development do
   gem 'spring'
   gem 'spring-watcher-listen', '~> 2.0.0'
   gem 'rubocop-performance'
+
 end
 
 group :test do
@@ -68,3 +69,7 @@ gem 'haml'
 gem 'simple_form'
 # gem 'bootstrap', '~> 4.3.1'
 gem 'jquery-rails'
+gem 'rspec-rails', '~> 3.8', '>= 3.8.2'
+gem "awesome_print", require:"ap"
+gem 'activeadmin' 
+
