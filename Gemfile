@@ -68,8 +68,7 @@ gem 'devise'
 gem 'haml'
 gem 'simple_form'
 # gem 'bootstrap', '~> 4.3.1'
-gem 'jquery-rails'
 gem 'rspec-rails', '~> 3.8', '>= 3.8.2'
 gem "awesome_print", require:"ap"
-gem 'activeadmin' 
-
+gem 'activeadmin'
+gem 'activeadmin_trumbowyg'
